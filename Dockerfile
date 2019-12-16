@@ -1,2 +1,1 @@
-FROM gcr.io/istio-release/citadel:release-1.1-20190111-09-15
-wget https://github.com/istio/istio/releases/download/1.3.1/istio-1.3.1-linux.tar.gz
+FROM gcr.io/kubeflow-images-public/centraldashboard@sha256:4299297b8390599854aa8f77e9eb717db684b32ca9a94a0ab0e73f3f73e5d8b5
