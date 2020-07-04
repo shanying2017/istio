@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.16.9
+FROM nexus3.acumos.org:10002/onboarding-base-r:1.0.0
